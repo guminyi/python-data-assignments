@@ -12,3 +12,6 @@ Lagou(`https://www.lagou.com/`) is a recruitment website . This dataset contains
 - salary: `String`, eg, '13k-20k'
 - industry: `String`, eg, '金融 / 上市公司 / 2000人以上'
 - description: `String`, eg, '五险一金、发展空间大、扁平管理、领导好'
+
+## P.S
+I wrote this code under the guidance of my friend, whose major is computer science.
